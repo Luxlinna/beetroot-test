@@ -1,4 +1,0 @@
-# Beetroot
-Test
-
-## Kalle Kula
